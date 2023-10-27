@@ -5,7 +5,7 @@
 
 //? _______________________________________
 
-//* push and pop
+//* push and pop methods
 
 // var names = ['alina', 'yumna', 'tooba'];
 // console.log(names);
